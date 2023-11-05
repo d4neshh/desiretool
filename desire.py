@@ -55,24 +55,6 @@ title.pack(padx=10, pady=0)
 divider = customtkinter.CTkLabel(app, text='___________________________________________________________________')
 divider.pack()
 
-
-#selectorlist = ['YouTube', 'Spotify']
-#selector = customtkinter.CTkOptionMenu(
-   # app, 
-    #width=350,
-    #height=50, 
-   # fg_color='gray',
-    #button_hover_color='#347ECB', 
-    #dropdown_fg_color='gray', 
-    #dropdown_font=takeoversmall, 
-    #dropdown_hover_color='#347ECB', 
-    #font=takeoversmall, 
-    #values=selectorlist, 
-    #button_color='gray', 
-    #)
-
-#selector.pack()
-
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Spotify Download Functions:
 def showYouTubeSuccessMessage():
